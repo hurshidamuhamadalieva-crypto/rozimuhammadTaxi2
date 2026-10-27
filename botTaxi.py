@@ -21,15 +21,15 @@ client = TelegramClient(
 # =================== SKIP CHAT ID ===================
 # Ushbu guruh/kanallardagi xabarlar hech qachon tekshirilmaydi.
 SKIP_CHAT_IDS = [
-    -1003907478673,
-    -1004306189737
+    -1003398571650,
+    -1002963614686
 ]
 
 # =================== TARGET CHAT ID ===================
 # Topilgan e'lonlar shu guruh(lar)ga yuboriladi.
 TARGET_CHAT_IDS = [
-    -1003907478673,
-    -1004306189737
+    -1003398571650,
+    -1002963614686
 ]
 
 # =================== KALIT SO'ZLAR (LOTIN + KIRILL) ===================
